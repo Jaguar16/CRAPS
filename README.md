@@ -21,6 +21,6 @@ le charge lorsqu'il existe
 
 #### Règles
 
-[Règles du jeu](RRhttps://www.casino-zen.com/regles-craps/) implémentées.
+[Règles du jeu](https://www.casino-zen.com/regles-craps/) implémentées.
 Peut se jouer seul ou à plusieurs.
 
