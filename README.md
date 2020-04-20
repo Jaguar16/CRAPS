@@ -1,7 +1,7 @@
 # CRAPS
 
 ******Jeu de casino CRAPS écrit en C :
-Version sans interface graphique avec une gestion de **dynamique** de la mémoire et des sauvegardes de scores.******
+Version sans interface graphique avec une gestion **dynamique** de la mémoire et des sauvegardes de scores.******
 
 
 ### Utilisation
